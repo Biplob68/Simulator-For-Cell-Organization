@@ -1,4 +1,4 @@
-###Simulator For Cell Organization
+#Simulator For Cell Organization
 This is a simulator for cell organization in a mobile wireless system where a user should be able to take various input factors in the cell system and find out the desired output.
  
 Input Factor:
